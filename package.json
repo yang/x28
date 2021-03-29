@@ -1,0 +1,16 @@
+{
+  "name": "ddb20b82-2299-486f-be2d-2c6915ba142b",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@plasmicapp/loader": "^0.0.29",
+    "next": "10.0.9",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  }
+}
